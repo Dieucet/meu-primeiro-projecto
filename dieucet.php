@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <h1>dieucet lemaitre</h1>
         <a href="index.php">voltar</a>
+        
         <?php
         // put your code here
         ?>
