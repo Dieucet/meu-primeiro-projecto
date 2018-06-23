@@ -13,7 +13,7 @@ and open the template in the editor.
         <h1>dieucet lemaitre</h1>
         <a href="index.php">voltar</a>
         
-        <?php
+        <h1>gravatai</h1>
         // put your code here
         ?>
     </body>
